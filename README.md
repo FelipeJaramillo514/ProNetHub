@@ -1,6 +1,5 @@
 # ProNetHub
 
-# Especificación de Requisitos de Software para ProNetHub
 
 ## 1.1 Propósito
 
